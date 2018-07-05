@@ -1,2 +1,1 @@
-Simply subroutine _print
-for output any messages on assembly language(AT&T x86)
+test Input/Output in assembly(x32 AT&T)
